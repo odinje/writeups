@@ -9,7 +9,7 @@ Maze was a programming task and worth 200 points. And the task was found at this
 Step 1
 ------
 
-From the website we could not go through to the links since it required authentication, but we could go the [code.php](https://cthulhu.fluxfingers.net:1507/code.php). From here we could get a reference to 
+From the website's task we found five links. The first four could we not visit since it required http authentication. But the fifth, [code.php](https://cthulhu.fluxfingers.net:1507/code.php), could we visit.  From here we could get a reference to 
 ```
 # Ubuntu trusty
 # Apache/2.4.7-1ubuntu4 
@@ -38,7 +38,7 @@ Step 2
 ------
 
 Then after login in with http authentication, we got a math equation to solve. ![Step2](img/step2.png)
-After solving the equation we got four new links. After a lot of failure and thinking I found out that this was graph traversing and created a python script for traversing all the URL and solve the math equations. Then after the python script did a while, about 30mins, the flag did appear.
+After solving the equation we got four new links. After a lot of failure and thinking I found out that this was graph traversing and created a python script for traversing all the URL and solve the math equations. Then after the python script did run about 30mins, the flag did appear.
 
 ```python
 
