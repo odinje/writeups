@@ -83,9 +83,7 @@ If Faith is Betty's fuckboy
     call safeword
 
 
-(I have a fetish for obedience)
 Lick Trisha's gums two times
-(have Earl demand obedience of Luna)
 if Carrie is submissive to Trisha
 	make Dungeon Master moan "No input file\nUsage: "
 	make Dungeon Master moan Earl's name
