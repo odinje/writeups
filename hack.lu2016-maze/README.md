@@ -9,6 +9,8 @@ Maze was a programming task and worth 200 points. And the task was found at this
 Step 1
 ------
 
+![step1](img/step1.png)
+
 From the website's task we found five links. The first four could we not visit since it required http authentication. But the fifth, [code.php](https://cthulhu.fluxfingers.net:1507/code.php), could we visit.  From here we could get a reference to 
 ```
 # Ubuntu trusty
